@@ -9,6 +9,18 @@ bioRxiv 2025.11.03.686411; doi: https://doi.org/10.1101/2025.11.03.686411
 ## Data access in OpenNeuro: 
 https://openneuro.org/datasets/ds006871
 
+## Software requirements 
+AFNI: AFNI_21.3.09 
+
+FreeSurfer: 7.3.2
+
+Matlab: R2021a
+
+ANTs: 2.4.2
+
+python: 3.9.12
+
+mripy package: https://github.com/herrlich10/mripy
 
 
-Currently being organized, will be uploaded soon.
+Notes: I showed the version I used. Maybe other versions work too.

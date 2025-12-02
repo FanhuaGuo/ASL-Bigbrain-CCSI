@@ -10,7 +10,7 @@ bioRxiv 2025.11.03.686411; doi: https://doi.org/10.1101/2025.11.03.686411
 ## Data access in OpenNeuro: 
 https://openneuro.org/datasets/ds006871
 
-## Software requirements 
+## Software requirements:
 AFNI: AFNI_21.3.09 
 
 FreeSurfer: 7.3.2
@@ -29,6 +29,8 @@ BrainSpace: https://brainspace.readthedocs.io/en/latest/
 
 R (include packages: biomaRt, dplyr, stringr, ggseg, ggsegGlasser, ggplot2)
 
-
-
 Notes: I showed the version I used. Maybe other versions work too.
+
+## Demo:
+The preprocessed data has been saved, and you can start the analysis directly from step01 in code/.
+

@@ -7,7 +7,7 @@ Fanhua Guo, Chenyang Zhao, Ravi R. Bhatt, Zixuan Liu, Andy Jeesu Kim, Zidong Yan
 bioRxiv 2025.11.03.686411; doi: https://doi.org/10.1101/2025.11.03.686411
 
 ## Data access in OpenNeuro: 
-https://openneuro.org/datasets/ds006871<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/69c9b494-6f87-461c-a3b9-f29b899a33d0" />
+https://openneuro.org/datasets/ds006871
 
 
 

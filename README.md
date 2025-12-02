@@ -7,7 +7,7 @@ Assessing molecular, cellular and transcriptomic bases of laminar perfusion and 
 ## Data access: 
 Raw data is in the OpenNeuro: https://openneuro.org/datasets/ds006871
 
-Preprocessed data is in the data/ folder.
+Preprocessed data is in the 'data/' and 'reference/' folders.
 
 ## Software requirements:
 AFNI: AFNI_21.3.09 

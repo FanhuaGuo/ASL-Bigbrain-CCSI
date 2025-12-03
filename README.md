@@ -34,7 +34,8 @@ Notes: I showed the version I used. Maybe other versions work too.
 The preprocessed data has been saved, and you can start the analysis directly from step01 in code/.
 
 ## Version:
-Latest version:\n
+Latest version:
+
 version 1: 12/2/2025-for the first preprint
 
 Older version:

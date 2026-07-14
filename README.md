@@ -36,9 +36,11 @@ The preprocessed data has been saved, and you can start the analysis directly fr
 ## Version:
 Latest version:
 
-version 1: 12/2/2025-for the first preprint
+version 2: 7/14/2026-code for the Nature Communications paper
 
 Older version:
+
+version 1: 12/2/2025-for the first preprint
 
 
 

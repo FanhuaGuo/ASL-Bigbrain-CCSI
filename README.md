@@ -2,7 +2,7 @@
 Code for analyzing CBF-CSI similarity index (CCSI) study using 7T MRI and Bigbrain
 
 ## Cite this study:
-Assessing molecular, cellular and transcriptomic bases of laminar perfusion and cytoarchitecture coupling in the human cortex. Fanhua Guo, Chenyang Zhao, Ravi R. Bhatt, Zixuan Liu, Andy Jeesu Kim, Zidong Yang, Siyi Xu, Kay Jann, Mara Mather, Neda Jahanshad, Danny JJ Wang. bioRxiv 2025.11.03.686411; doi: https://doi.org/10.1101/2025.11.03.686411
+Guo, F., Zhao, C., Bhatt, R.R. et al. Assessing molecular, cellular and transcriptomic bases of laminar perfusion and cytoarchitecture coupling in the human cortex. Nat Commun (2026). https://doi.org/10.1038/s41467-026-76812-w
 
 ## Data access: 
 Raw data is in the OpenNeuro: https://openneuro.org/datasets/ds006871
